@@ -1,0 +1,13 @@
+name = "Illager Invasion [Forge & Fabric]"
+filename = "IllagerInvasion-v21.1.2-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e0867393ccf4e6111c7b4b94a080cf02c6b2ab9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5731729
+project-id = 891324

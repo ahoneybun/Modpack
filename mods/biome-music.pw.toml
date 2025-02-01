@@ -1,0 +1,13 @@
+name = "Biome Music[Forge/Fabric]"
+filename = "biomemusic-fabric-1.21-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "949f44331c2cee423a39a2c7c5de4426aaa6d305"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6103048
+project-id = 840873

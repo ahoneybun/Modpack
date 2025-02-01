@@ -1,0 +1,13 @@
+name = "Autochef's Delight"
+filename = "AutochefsDelight-1.21.1-Fabric-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "756dd05463f177cfbc57f4da92b8b97673ef0dd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5710319
+project-id = 964282

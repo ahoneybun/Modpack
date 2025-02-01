@@ -1,0 +1,13 @@
+name = "Crash Assistant"
+filename = "crash_assistant-fabric-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25c512f312f75a398b4ff037ed67260cbc83a4ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6125186
+project-id = 1154099

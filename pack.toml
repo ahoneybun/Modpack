@@ -1,0 +1,13 @@
+name = "BMC3"
+author = "Aaron Honeycutt"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a9b7a0baeff472fde0280b2d497b105c98f8ef021b69ef044bb3c446a361c48"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

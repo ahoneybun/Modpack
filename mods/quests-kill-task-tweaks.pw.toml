@@ -1,0 +1,13 @@
+name = "Quests Kill Task Tweaks"
+filename = "Quest-Kill-Task-fabric-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e224a65eb52ff5bf131977f3ba8e23a908a764b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6003078
+project-id = 1161828

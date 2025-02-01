@@ -1,0 +1,13 @@
+name = "Kiwi 🥝 (Fabric)"
+filename = "Kiwi-1.21-Fabric-15.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13de663e0756567e1cd40c515653b99a62e14398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6102459
+project-id = 549404
