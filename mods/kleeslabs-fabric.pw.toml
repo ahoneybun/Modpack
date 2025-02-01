@@ -1,13 +1,13 @@
 name = "KleeSlabs (Fabric Edition)"
-filename = "kleeslabs-fabric-1.21.1-21.1.2.jar"
+filename = "kleeslabs-fabric-1.21.1-21.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1a07f1b4983485fad1de00ad7964955934f780a"
+hash = "220c23921d9d6859ffa0c5c532f4f56d05393b83"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6077629
+file-id = 6147685
 project-id = 547695
